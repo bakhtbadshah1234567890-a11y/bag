@@ -1,0 +1,15 @@
+.bbb{
+    background-image: url(/bag2.webp);
+    width: 600px;
+    height: 460px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.aaa{
+    background-image: url(/bagaaa.webp);
+    width: 600px;
+    height: 460px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
